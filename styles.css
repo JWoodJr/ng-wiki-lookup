@@ -1,0 +1,13 @@
+
+body {
+	background: #bbb;
+}
+
+.brand-bg {
+	background: linear-gradient(175deg, white, lightgray);
+}
+
+.result {
+	padding-left: 15px;
+	padding-right: 15px;
+}
